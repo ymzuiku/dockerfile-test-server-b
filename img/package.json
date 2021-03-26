@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "airt src",
+    "build": "airt src --build"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "airt": "^0.0.2",
+    "express": "^4.17.1"
+  }
+}
